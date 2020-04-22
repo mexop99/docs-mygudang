@@ -10,10 +10,10 @@
 
 * download code [CodeIgniter 3](https://codeigniter.com/download) 
 
-  ![ci](F:\1_kuliah\smt-6\KaPe\docs-mygudang\img\CI.png)
+  ![ci](/img/CI.png)
 
 * Download [AdminLTE-3](https://adminlte.io/)
 
-* ![adminlte-3](F:\1_kuliah\smt-6\KaPe\docs-mygudang\img\adminltei0.png)
+* ![adminlte-3](/img/adminltei0.png)
 
 * 
